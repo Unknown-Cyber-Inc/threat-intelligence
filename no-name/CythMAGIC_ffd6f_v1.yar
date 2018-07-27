@@ -1,4 +1,4 @@
-rule CythMAGIC_ffd6f_v2
+rule CythMAGIC_ffd6f_v1
 {
  meta:
 
